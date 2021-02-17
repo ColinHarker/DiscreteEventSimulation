@@ -1,0 +1,18 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+!makefile
+!LICENSE
+
+# Unignore all dirs
+!*/
+
+# Object files
+*.o
+*.obj
+obj/
+
+#ignore log files
+*.log
